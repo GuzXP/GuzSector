@@ -1,0 +1,6 @@
+{
+  "name": "Guz Sector",
+  "description": "A manual sector timing stopwatch for sim racing with a futuristic motorsport HUD aesthetic.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
